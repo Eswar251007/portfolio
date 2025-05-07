@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Bot Control and Monitory Using Captcha",
+    "desc": "This project proposes a new image-based CAPTCHA test, Activity Recognition CAPTCHA.",
+    "image": "picture1",
+    "category": "Captcha",
+    
+    "links": {
+      "view": "https://www.linkedin.com/in/balaji18as/",
+      "code": "https://github.com/Balaji18AS/project.git"
+    }
+  },
+  {
+    "name": "Appartment Visitor's Management System",
+    "desc": "The Website used for calculating Apartment Visitor’s, Guests, and Some others. Updating, Adding and Removing Visitor’s information and Details.",
+   "image": "avms",
+    "category": "visitors management",
+     "links": {
+      "view": "https://www.linkedin.com/in/balaji18as/",
+      "code": "https://github.com/Balaji18AS/AVMS.git"
+    }
+  }
+  
+]
